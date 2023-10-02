@@ -1,9 +1,10 @@
 import "./App.css";
+import RewardsPoints from "./components/RewardsPoints";
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello World!</h1>
+      <RewardsPoints />
     </div>
   );
 }
